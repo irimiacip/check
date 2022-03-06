@@ -1,1 +1,2 @@
 adaugare remmote 1
+adaugare local 1
